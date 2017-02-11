@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="browsertype" value="chrome"></parameter>
+  <test name="chrome">
+    <classes>
+      <class name="testScript.LoginScenario"/>
+      <class name="testScript.SearchScenario"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="firefox">
+    <parameter name="browsertype" value="firefox"></parameter>
+    <classes>
+      <class name="testScript.LoginScenario"/>
+      <class name="testScript.SearchScenario"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

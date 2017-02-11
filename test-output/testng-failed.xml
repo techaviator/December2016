@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browsertype" value="firefox"/>
+  <test name="chrome(failed)">
+    <classes>
+      <class name="testScript.LoginScenario">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="intializeBrowser"/>
+          <include name="intializeBrowser"/>
+          <include name="intializeVariables"/>
+          <include name="endSuite"/>
+          <include name="validLoginScenario" invocation-numbers="1 2"/>
+        </methods>
+      </class> <!-- testScript.LoginScenario -->
+      <class name="testScript.SearchScenario">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="validSearchScenario" invocation-numbers="0 1"/>
+          <include name="intializeBrowser"/>
+          <include name="intializeBrowser"/>
+        </methods>
+      </class> <!-- testScript.SearchScenario -->
+    </classes>
+  </test> <!-- chrome(failed) -->
+  <test name="firefox(failed)">
+    <parameter name="browsertype" value="firefox"/>
+    <classes>
+      <class name="testScript.LoginScenario">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="intializeBrowser"/>
+          <include name="intializeBrowser"/>
+          <include name="intializeVariables"/>
+          <include name="endSuite"/>
+          <include name="validLoginScenario" invocation-numbers="1 2"/>
+        </methods>
+      </class> <!-- testScript.LoginScenario -->
+      <class name="testScript.SearchScenario">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="validSearchScenario" invocation-numbers="0 1"/>
+          <include name="intializeBrowser"/>
+          <include name="intializeBrowser"/>
+        </methods>
+      </class> <!-- testScript.SearchScenario -->
+    </classes>
+  </test> <!-- firefox(failed) -->
+</suite> <!-- Failed suite [Suite] -->

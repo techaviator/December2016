@@ -1,0 +1,45 @@
+2017-02-11 11:14:17 INFO  LoginScenario:25 - User in Home Page
+2017-02-11 11:14:18 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:14:19 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:14:49 INFO  LoginGeneric:53 - The user has logged in successfully
+2017-02-11 11:14:49 INFO  LoginScenario:28 - User has successfully logged in
+2017-02-11 11:14:54 INFO  LoginScenario:25 - User in Home Page
+2017-02-11 11:14:55 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:14:56 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:14:56 WARN  LoginGeneric:44 - The credentials are incorrect, skipping the execution for this test case
+2017-02-11 11:15:02 INFO  LoginScenario:25 - User in Home Page
+2017-02-11 11:15:02 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:15:03 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:15:03 WARN  LoginGeneric:44 - The credentials are incorrect, skipping the execution for this test case
+2017-02-11 11:15:09 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:15:10 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:15:40 INFO  LoginGeneric:53 - The user has logged in successfully
+2017-02-11 11:15:40 INFO  HomePageGeneric:28 - Start book search in home page
+2017-02-11 11:15:40 INFO  HomePageGeneric:31 - user has enter the book waysand clicked on the search button
+2017-02-11 11:16:17 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:16:18 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:16:18 WARN  LoginGeneric:44 - The credentials are incorrect, skipping the execution for this test case
+2017-02-11 11:16:28 INFO  LoginScenario:25 - User in Home Page
+2017-02-11 11:16:29 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:16:31 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:17:01 INFO  LoginGeneric:53 - The user has logged in successfully
+2017-02-11 11:17:01 INFO  LoginScenario:28 - User has successfully logged in
+2017-02-11 11:17:09 INFO  LoginScenario:25 - User in Home Page
+2017-02-11 11:17:10 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:17:11 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:17:11 WARN  LoginGeneric:44 - The credentials are incorrect, skipping the execution for this test case
+2017-02-11 11:17:20 INFO  LoginScenario:25 - User in Home Page
+2017-02-11 11:17:21 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:17:21 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:17:21 WARN  LoginGeneric:44 - The credentials are incorrect, skipping the execution for this test case
+2017-02-11 11:17:30 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:17:32 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:18:02 INFO  LoginGeneric:53 - The user has logged in successfully
+2017-02-11 11:18:02 INFO  HomePageGeneric:28 - Start book search in home page
+2017-02-11 11:18:02 INFO  HomePageGeneric:31 - user has enter the book waysand clicked on the search button
+2017-02-11 11:18:42 INFO  LoginGeneric:34 - User in Login page
+2017-02-11 11:18:44 INFO  LoginGeneric:39 - User Entered login details and clicked on the login button
+2017-02-11 11:19:14 INFO  LoginGeneric:53 - The user has logged in successfully
+2017-02-11 11:19:14 INFO  HomePageGeneric:28 - Start book search in home page
+2017-02-11 11:19:15 INFO  HomePageGeneric:31 - user has enter the book sdfsdfsand clicked on the search button
+2017-02-11 11:19:15 WARN  HomePageGeneric:36 - User has entered incorrect book namesdfsdfs
